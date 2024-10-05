@@ -1,3 +1,4 @@
+#This file contains code for only jamming a drone on a RF set by the user. 
 import tkinter as tk
 from tkinter import messagebox
 from hackrf import HackRF
